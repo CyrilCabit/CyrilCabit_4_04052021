@@ -1432,7 +1432,7 @@ figure {
 
 img {
     vertical-align: middle;
-    width: 270px;
+    width: 10em;
 }
 
 .carousel-inner>.item>a>img,
@@ -2074,7 +2074,8 @@ pre code {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 15px;
+    text-align: center;
 }
 
 .col-xs-1,
